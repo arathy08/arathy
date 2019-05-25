@@ -1,2 +1,0 @@
-# arathy
-file
